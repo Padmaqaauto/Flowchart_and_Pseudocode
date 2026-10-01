@@ -23,14 +23,14 @@ multiplication table from 1 to 10 using a loop.
 
 ---
 
-## 4. Positive, Negative, or Zero Check
+## 4. [Positive, Negative, or Zero Check](Algorithms/Find_Integer.md)
 
 Write the algorithm and flowchart to input a number and display whether
 it is positive, negative, or zero.
 
 ---
 
-## 5. Simple Interest Calculator
+## 5. [Simple Interest Calculator](Algorithms/Simple_Interest.md)
 
 Create an algorithm and flowchart for a program that calculates simple
 interest using the formula:
