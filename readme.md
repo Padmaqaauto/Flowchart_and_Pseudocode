@@ -57,7 +57,7 @@ the area (**Area = Length × Width**), and display the result.
 
 ---
 
-## 8. Determine Pass or Fail
+## 8. [Determine Pass or Fail](Algorithms/Pass_or_Fail.md)
 
 Write the algorithm and draw the flowchart for a program that takes a
 student's average marks and displays **"Pass"** if average ≥ 50,
