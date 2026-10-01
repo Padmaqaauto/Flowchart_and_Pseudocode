@@ -1,7 +1,6 @@
 ## 3. Display Multiplication Table
 
-Create an algorithm and flowchart that input a number and display its
-multiplication table from 1 to 10 using a loop.
+Create an algorithm and flowchart that input a number and display its multiplication table from 1 to 10 using a loop.
 
 ---
 

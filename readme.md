@@ -50,7 +50,7 @@ temperature of 7 days, finds the average temperature, and displays it.
 
 ---
 
-## 7. Calculate Area of a Rectangle
+## 7. [Calculate Area of a Rectangle](Algorithms/Area_of_Rectangle.md)
 
 Create an algorithm and flowchart to input length and width, calculate
 the area (**Area = Length × Width**), and display the result.
