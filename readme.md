@@ -1,13 +1,13 @@
 # Workshop: Algorithm and Flowchart
 
-## 1. [Check Even or Odd Number](Algorithm1/Even_or_Odd.md)
+## 1. [Check Even or Odd Number](Algorithms/Even_or_Odd.md)
 
 Design an algorithm and flowchart that take a number as input and
 determine whether it is even or odd.
 
 ---
 
-## 2. Calculate Total and Average Marks
+## 2. [Calculate Total and Average Marks](Algorithms/Total_and_Average_marks.md)
 
 Write the algorithm and draw the flowchart for a program that inputs
 marks for 3 subjects, calculates the total and average, and displays
