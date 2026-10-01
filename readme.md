@@ -16,7 +16,7 @@ both.
 
 ---
 
-## 3. Display Multiplication Table
+## 3. [Display Multiplication Table](Algorithms/Multiplication_tables.md)
 
 Create an algorithm and flowchart that input a number and display its
 multiplication table from 1 to 10 using a loop.
