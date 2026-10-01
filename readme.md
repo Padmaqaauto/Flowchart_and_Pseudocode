@@ -43,7 +43,7 @@ interest using the formula:
 
 ---
 
-## 6. Average Temperature Calculation
+## 6. [Average Temperature Calculation](Algorithms/Average_Temperature.md)
 
 Write the algorithm and draw the flowchart for a program that takes the
 temperature of 7 days, finds the average temperature, and displays it.
