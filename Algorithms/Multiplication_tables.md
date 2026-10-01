@@ -10,11 +10,17 @@ multiplication table from 1 to 10 using a loop.
 ```text
 
 START
+
     Input num
+
     For i = 1 TO 10
+
         Prodcut = number * i
+
         PRINT Product
+
     ENDFOR
+    
 END  
 
 ```
@@ -24,13 +30,13 @@ END
 ```mermaid
 
 flowchart TD
-A(["Start"]) --> B[\Input any number\]
-B --> C["Initiate Counter = 1"]
-C --> D{"Counter <= 10"} 
-D --> |Yes| E[" Product = num * Counter"]
-D --> |No| F["End"]
-E --> G["Increment Counter"]
-G --> D
-G --> F["End"]
+    A(["Start"]) --> B[\Input any number\]
+    B --> C["Initiate Counter = 1"]
+    C --> D{"Counter <= 10"} 
+    D --> |Yes| E[" Product = num * Counter"]
+    D --> |No| F["End"]
+    E --> G["Increment Counter"]
+    G --> D
+    G --> F["End"]
 
 ```

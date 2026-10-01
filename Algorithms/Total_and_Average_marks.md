@@ -9,11 +9,17 @@ both.
 ```text
 
 START
+
 	Input mark1, mark2, mark3
+
 	Total = mark1 + mark2 + mark3
+
 	Average = Total / 3
+
 	Print Total
+
 	Print Average
+    
 End
 ```
 
