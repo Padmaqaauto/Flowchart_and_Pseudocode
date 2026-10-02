@@ -72,7 +72,7 @@ calculate its factorial using a loop.
 
 ---
 
-## 10. Calculate Discount on Purchase
+## 10. [Calculate Discount on Purchase](Algorithms/Purchase_Discount.md)
 
 Write the algorithm and draw the flowchart for a program that inputs the
 purchase amount and gives a **10% discount** if the amount is greater
