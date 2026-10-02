@@ -28,7 +28,7 @@ END
 ```mermaid
   flowchart TD
     start(["Start"]) --> input[/"Input number n"/]
-    input --> check{"Is n mod 2 = 0?"}
+    input --> check{"Is n mod 2 = 0 ?"}
     check -->|Yes| even["Output: Even"]
     check -->|No| odd["Output: Odd"]
     even --> finish(["End"])

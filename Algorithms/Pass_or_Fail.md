@@ -43,7 +43,7 @@ flowchart TD
     A(["Start"]) --> B[/Input marks for 3 subjects/]
     B --> C["Calculate total of marks"]
     C --> D["Calculate Average of marks"]
-    D --> E{"If Average >= 50"}
+    D --> E{"If Average >= 50 ?"}
     E --> |Yes| F[/Display "Pass"/]
     E --> |No| G[/Display "Fail"/]
     F --> H(["End"])

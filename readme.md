@@ -94,7 +94,7 @@ Write the algorithm and draw the flowchart for a program that inputs a user's mo
 
 ---
 
-## 14. Login System (Maximum 3 Attempts)
+## 14. [Login System (Maximum 3 Attempts)](Algorithms/Login_System.md)
 
 Create an algorithm and flowchart for a login system that allows a user up to 3 attempts to enter the correct password. Display **"Access Granted"** if the password is correct; otherwise display **"Account Locked"** after 3 failed attempts.
 

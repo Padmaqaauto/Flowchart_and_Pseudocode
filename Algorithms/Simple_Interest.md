@@ -30,7 +30,7 @@ END
 ```mermaid
 
 flowchart TD
-      A(["Start"]) --> B[\Input Principal Amount, Rate and Time\]
+    A(["Start"]) --> B[\Input Principal Amount, Rate and Time\]
     B --> C["Calculate SI = (Principal Amount * Rate * Time) / 100"]
     C --> D[\Display SI\]
     D --> E(["End"])

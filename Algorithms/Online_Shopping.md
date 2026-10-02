@@ -33,7 +33,7 @@ END
 flowchart TD
     
     A(["Start"]) --> B[/Input Purchase_Amount/]
-    B --> C{"Purchase_Amount >= 500"}
+    B --> C{"Purchase_Amount >= 500 ?"}
     C  --> |Yes| D["Display Free Delivery"]
     C --> |No| E["Display Delivery Charge Applies"]
     D --> F(["End"])

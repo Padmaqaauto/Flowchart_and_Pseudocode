@@ -42,7 +42,7 @@ END
 flowchart TD
 
     A(["Start"]) --> B[/Input Employee Salary and years of service/]
-    B --> C{"years of service >= 5"}
+    B --> C{"years of service >= 5 ?"}
     C --> |Yes| D["Bonus = Salary * 0.10"]
     C --> |No| E["Bonus = Salary * 0.05"]
     D --> F["Total_Salary = Salary + Bonus"]

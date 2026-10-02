@@ -35,8 +35,8 @@ END
 
 flowchart TD
     A(["Start"]) --> B[/Input PurchaseAmount/]
-    B --> C{"If PurchaseAmount > 1000"}
-    C --> |Yes| D[Discount = PurchaseAmount * 0.1]
+    B --> C{"PurchaseAmount > 1000 ?"}
+    C --> |Yes| D["Discount = PurchaseAmount * 0.1"]
     C --> |No| E["Final_Amount = Purchase_Amount"]
     D --> F["Final_Amount = Purchase_Amount - Discount"]
     E --> G[/Display Final_Amount/]

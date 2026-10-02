@@ -31,11 +31,12 @@ END
 flowchart TD
     A(["Start"]) --> B[\Input any number\]
     B --> C["Initiate Counter = 1"]
-    C --> D{"Counter <= 10"} 
+    C --> D{"Counter <= 10 ?"} 
     D --> |Yes| E[" Product = num * Counter"]
     D --> |No| F["End"]
     E --> G["Increment Counter"]
     G --> D
-    G --> F["End"]
+    G --> H[/Display Product Table /]
+    H --> F
 
 ```

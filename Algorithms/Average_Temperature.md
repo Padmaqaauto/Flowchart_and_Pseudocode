@@ -35,7 +35,7 @@ flowchart TD
 
         A(["Start"]) --> B["Set Sum =0"]
         B --> C["Set Counter = 1"]
-        C --> D{"Counter <= 7"}
+        C --> D{"Counter <= 7 ?"}
         D --> |Yes| E[/Input Temp/]
         D --> |No| F(["End"])
         E --> G["Calculate Sum = Sum + Temp"]
