@@ -100,7 +100,7 @@ Create an algorithm and flowchart for a login system that allows a user up to 3 
 
 ---
 
-## 15. Store Checkout with Multiple Items
+## 15. [Store Checkout with Multiple Items](Algorithms/Checkout.md)
 
 Write the algorithm and draw the flowchart for a program that inputs the number of items purchased, calculates the total purchase amount using a loop, and applies a **15% discount** if the total exceeds 5000 SEK.
 
