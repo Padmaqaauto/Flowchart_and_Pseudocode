@@ -65,7 +65,7 @@ otherwise **"Fail"**.
 
 ---
 
-## 9. Calculate Factorial of a Number
+## 9. [Calculate Factorial of a Number](Algorithms/Factorial.md)
 
 Write the algorithm and draw the flowchart that input a number and
 calculate its factorial using a loop.
