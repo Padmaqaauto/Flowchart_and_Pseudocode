@@ -82,7 +82,7 @@ Write the algorithm and draw the flowchart for a program that inputs a customer'
 
 ---
 
-## 12. Employee Salary and Bonus Calculator
+## 12. [Employee Salary and Bonus Calculator](Algorithms/Employee.md)
 
 Write the algorithm and draw the flowchart for a program that inputs an employee's monthly salary and years of service, calculates a bonus of **10%** for employees with 5 or more years of service and **5%** for others, then displays the bonus and total salary.
 
