@@ -40,7 +40,7 @@ flowchart TD
     A(["Start"]) --> B[\Input Number\]
     B --> C["counter = 1"]
     C --> D["Product =1"]
-    D --> E{While counter <= Number>}
+    D --> E{counter <= Number>}
     E --> |Yes| F["Product = counter * Product"]
     E --> |No| G[\Display Product\]
     F --> H["counter = counter + 1"]
