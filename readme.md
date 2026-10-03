@@ -106,7 +106,7 @@ Write the algorithm and draw the flowchart for a program that inputs the number 
 
 ---
 
-## 16. Electricity Bill Calculator
+## 16. [Electricity Bill Calculator](Algorithms/Electricity_Bill.md)
 
 Write the algorithm and draw the flowchart for a program that inputs the number of electricity units consumed and calculates the total bill using the following rates: first 100 units at 1.5 SEK per unit, next 200 units at 2.0 SEK per unit, and all remaining units at 3.0 SEK per unit.
 
